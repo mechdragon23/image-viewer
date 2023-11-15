@@ -1,2 +1,2 @@
 # image-viewer
-An image view using pySimpleGui
+An image view build using a tutorial to learn pySimpleGui
